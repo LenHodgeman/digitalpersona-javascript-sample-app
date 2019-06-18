@@ -1,1 +1,0 @@
-# digitalpersona-javascript-sample-app
